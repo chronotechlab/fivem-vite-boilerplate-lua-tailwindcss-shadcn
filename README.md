@@ -9,7 +9,7 @@ This is a starter project file + tailwindcss. It includes modules for data excha
 Install fivem-vite-boilerplate-lua with npm
 
 ```bash
-  https://github.com/chronotechlab/fivem-vite-boilerplate-lua-tailwindcss.git
+  https://github.com/chronotechlab/fivem-vite-boilerplate-lua-tailwindcss-shadcn.git
   cd fivem-vite-boilerplate-lua
   npm install
 ```
